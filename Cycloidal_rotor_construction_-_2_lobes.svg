@@ -22,11 +22,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-59.005899"
-     inkscape:cy="103.27752"
+     inkscape:zoom="1.6629224"
+     inkscape:cx="178.51297"
+     inkscape:cy="206.56406"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1598"
      inkscape:window-height="868"
@@ -74,9 +74,9 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.80000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="RotorRight" />
     <path
-       inkscape:connector-curvature="0"
-       id="BlowerHousing"
-       d="M 84.41112,1009.6464 A 120.62758,120.62758 0 0 0 205.04003,1130.2733 120.62758,120.62758 0 0 0 325.667,1009.6464 120.62758,120.62758 0 0 0 295.1103,929.6327 120.62759,120.62759 0 0 0 325.667,849.57215 120.62759,120.62759 0 0 0 205.04003,728.9452 120.62759,120.62759 0 0 0 84.41112,849.57215 a 120.62759,120.62759 0 0 0 30.55664,80.01367 120.62758,120.62758 0 0 0 -30.55664,80.06058 z"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.80000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.80000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 178.51367 5.9003906 A 120.62759 120.62759 0 0 0 57.884766 126.52734 A 120.62759 120.62759 0 0 0 79.042969 194.53711 L 9.8339844 194.53711 L 9.8339844 218.5918 L 79.148438 218.5918 A 120.62758 120.62758 0 0 0 57.884766 286.60156 A 120.62758 120.62758 0 0 0 178.51367 407.22852 A 120.62758 120.62758 0 0 0 299.14062 286.60156 A 120.62758 120.62758 0 0 0 277.98438 218.5918 L 347.19141 218.5918 L 347.19141 194.53711 L 277.87695 194.53711 A 120.62759 120.62759 0 0 0 299.14062 126.52734 A 120.62759 120.62759 0 0 0 178.51367 5.9003906 z "
+       transform="translate(26.526095,723.0452)"
+       id="BlowerHousing" />
   </g>
 </svg>
