@@ -76,6 +76,14 @@
        inkscape:transform-center-x="-21.514942"
        inkscape:transform-center-y="0.52521325"
        transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,402.09859,461.77202)">
+    <animateTransform
+       attributeName="transform"
+       attributeType="XML"
+       type="rotate"
+       from="360 -116.73804 507.60663"
+       to="0 -116.73804 507.60663"
+       dur="10s"
+       repeatCount="indefinite" />
       <path
          inkscape:tile-y0="212.27024"
          inkscape:tile-x0="-131.41398"
@@ -138,6 +146,14 @@
     <g
        id="g4237"
        inkscape:transform-center-y="-1.5931399e-05">
+    <animateTransform
+       attributeName="transform"
+       attributeType="XML"
+       type="rotate"
+       from="0 321.82086 507.92651"
+       to="360 321.82086 507.92651"
+       dur="12s"
+       repeatCount="indefinite" />
       <path
          inkscape:tile-y0="264.16552"
          inkscape:tile-x0="273.35415"
